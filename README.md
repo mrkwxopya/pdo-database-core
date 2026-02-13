@@ -4,18 +4,7 @@ Production-grade, single-file PDO execution core and lightweight query builder f
 
 Provides a secure, ergonomic, and efficient way to interact with databases using prepared statements, strict validation, and zero-dependency architecture.
 
-Based on long-term production backend design principles. :contentReference[oaicite:1]{index=1}
-
----
-
-# 🌍 Repository Setup
-
-Default recommended GitHub setup:
-
-- Visibility: Public
-- README: Enabled
-- License: Optional (MIT recommended for open source)
-- .gitignore: Optional (can be added later)
+Based on long-term production backend design principles.
 
 ---
 
@@ -53,7 +42,7 @@ Supports:
 ---
 
 ## ✅ Lightweight Query Builder
-Fluent builder similar to MysqliDb ergonomics. :contentReference[oaicite:2]{index=2}
+Fluent builder similar to MysqliDb ergonomics.
 
 ---
 
@@ -63,7 +52,7 @@ Supports named connections and runtime switching.
 ---
 
 ## ✅ Nested Transactions
-Supports SAVEPOINT-based nested transaction logic. :contentReference[oaicite:3]{index=3}
+Supports SAVEPOINT-based nested transaction logic.
 
 ---
 
